@@ -267,7 +267,7 @@ If an image cannot be resolved, the reason is written to the Logs.
 Save your whole mapping (post type, templates, Cross Combination settings) under a name and load it later for another CSV with the same column names. No need to set up 50 fields again.
 
 <!-- SCREENSHOT: save and load mapping controls -->
-![Saved mappings](images/savedmappings.jpg)
+![Saved mappings](images/savedmapping.jpg)
 
 ---
 
